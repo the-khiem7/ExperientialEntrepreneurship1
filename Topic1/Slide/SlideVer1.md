@@ -14,7 +14,6 @@
 - Built with small, lean team
 - No advertising revenue model
 - Focus on user experience over monetization
-````
 
 ## **Slide 2: WhatsApp vs Sam Altman's Success Framework (Part 1)**
 
@@ -33,7 +32,7 @@
 - **EVANGELICAL FOUNDER:** Passionate founders who inspired trust and adoption
 - **AMBITIOUS VISION:** Change how the world communicates via mobile
 - **CONFIDENT VIEW OF FUTURE:** Certain that free, secure messaging would become the standard
-````
+
 
 ## **Slide 3: WhatsApp vs Sam Altman's Success Framework (Part 2)**
 
