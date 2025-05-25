@@ -1,6 +1,6 @@
 ## **Slide 1: Company Introduction**
 
-````markdown
+
 # WhatsApp: Simplicity That Changed Global Communication
 
 ## Company Overview
@@ -18,7 +18,7 @@
 
 ## **Slide 2: WhatsApp vs Sam Altman's Success Framework (Part 1)**
 
-````markdown
+
 # How WhatsApp Embodied Startup Success Principles
 
 ## 🎯 **Product Excellence**
@@ -37,7 +37,7 @@
 
 ## **Slide 3: WhatsApp vs Sam Altman's Success Framework (Part 2)**
 
-````markdown
+
 # Execution & Competitive Strategy
 
 ## 🚀 **Team & Execution**
@@ -58,7 +58,7 @@
 
 ## **Slide 4: Key Lessons Learned**
 
-````markdown
+
 # 🧠 Lessons from WhatsApp's Success
 
 ## Core Principles
