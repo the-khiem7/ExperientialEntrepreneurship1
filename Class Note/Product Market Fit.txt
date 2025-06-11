@@ -30,7 +30,7 @@ Checkpoint2: Do a market research
 - What
 	+ Demographic (Nhân khẩu học): 
 	+ Questionaire
-		- Behavioe: 
+		- Behavior: 
 		- Painpoint: 
 		- Expectation: 
 			Phần survey nên tổ chức theo các nhóm / luồng của 4Ps / 7Ps
@@ -39,7 +39,7 @@ Checkpoint2: Do a market research
 			- Price: 
 			- Place: Khách hàng đang / hay tập trung ở đâu => để có thể tiếp cận khách hàng
 			- Promotion: 
-			7Ps 
+			7Ps: Gồm 4Ps và kèm theo
 			- + prople: 
 			- + process: 
 			- + physical evidence: 
@@ -50,5 +50,15 @@ Checkpoint2: Do a market research
 - Why 
 
 - How
+
+
+* LÀM THẾ NÀO KHI THỊ THƯỜNG MÌNH XÂM NHẬP KHÔNG HỀ CÓ KHẢO SÁT HOẶC BÀI NGHIÊN CỨU THÌ SAO ?
+- Lên Google Trends: Tìm những từ khóa được tìm kiếm nhiều nhất	
+	+ Cách viết CV
+	+ Làm thế nào để viết CV
+	
+
+
+
 
 CHECKPOINT 4: Tính tiền 
