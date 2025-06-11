@@ -1,0 +1,54 @@
+Khởi tạo tài liệu notion về kiến thức khởi nghiệp:
+
+Product Market Fit
+Checkpoint2: Do a market research
+
+1./ Desk reseach  (Giải thích thêm về việc nó là 1 kỹ thuật thuộc Industy Overview, chứ ko phải là nghiên cứu)
+- Size / volume (giải nghĩa khái niệm)
+- CAGR (thêm phần giới thiệu)
+- Trend (nếu theo trend, nếu đi ngược số đông ?)
+- Competitions board ( cho 1 bảng ví dụ)
+- Benchmark/ Comparition (thêm phần giải thích sự khác nhau của cả hai)
+- "Value chain" (Cho ví dụ 1 chuỗi)
+
+
+2./ Market survey
+* không nên lấy số liệu từ forum, nên lấy từ nguồn thông tin chính thống (hiệp hội, tổ chức)
+* Đây là 1 ngành nghề trong lĩnh vực và có lợi nhuận nghề nghiệp lớn
+
+- Who
+	Ex: Giả sử bạn đi khảo sát ở chợ thì có thể đi hỏi 100 200 người, ko thể hỏi 1000 người được. Vì thế ta tìm đến Ban quan lí ? Họ sẽ nắm được tổng thể / đúng là sẽ có bias nhưng đó đã cá nhân hiểu nhất tại chợ r
+	+ mass/parsona(khách hàng điển hình) (3-5 người)
+	+ expert (3-5 người)
+	
+	* ko cần hỏi nhiều, chỉ cần hỏi đúng người
+	EX: App học tập mẫu giáo: Hỏi phụ hinh (Customer - người trả tiền) và bẻ mẫu giáo (EndUser - người dùng thật)
+	
+	Sự khác nhau giữa EndUser và Customer
+	
+
+- What
+	+ Demographic (Nhân khẩu học): 
+	+ Questionaire
+		- Behavioe: 
+		- Painpoint: 
+		- Expectation: 
+			Phần survey nên tổ chức theo các nhóm / luồng của 4Ps / 7Ps
+			4Ps:
+			- Product: 
+			- Price: 
+			- Place: Khách hàng đang / hay tập trung ở đâu => để có thể tiếp cận khách hàng
+			- Promotion: 
+			7Ps 
+			- + prople: 
+			- + process: 
+			- + physical evidence: 
+- Where
+
+- When
+
+- Why 
+
+- How
+
+CHECKPOINT 4: Tính tiền 
