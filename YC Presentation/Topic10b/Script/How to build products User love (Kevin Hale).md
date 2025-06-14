@@ -1,244 +1,50 @@
-00:01 All right.
-00:01 So when I talk about making
-products users love what I
-00:05 mean specifically is like
-how do we make things that
-00:09 has a passionate user base
-that our users
-00:13 are unconditionally wanting
-it to
-00:17 be successful both on the
-products that we build, but
-00:20 also the companies behind
-them.
-00:22 We're gonna go over tons of
-information.
-00:26 Try not to take too many
-notes,
-00:27 mostly just try to listen.
-00:28 I'll post the link to the
-slides on my Twitter account
-00:31 and on that link, there will
-be a way for you to
-00:33 annotate the slide and you
-can ask me questions.
-00:36 And so if we don't get to
-them,
-00:37 I'll answer them after the
-talk.
-00:39 So, you guys have been.
-00:41 Listening to and
-00:41 hearing a lot about growth
-over the last several weeks,
-00:45 and to me I feel like growth
-is usually fairly simple.
-00:48 It's the interaction between
-two sort of concepts or
-00:50 variables.
-00:51 Conversion rate and churn.
-00:54 Right?
-00:55 And the gap between those
-two things pretty
-00:58 much indicate how fast
-you're gonna grow.
-01:01 And most people, especially
-business type people,
-01:04 tend to look at this
-interaction in terms of
-01:06 a very calculated in a
-mathematical sort of way.
-01:09 And today, I sort of want to
-01:10 talk about these things at a
-more human scale.
-01:12 All right, cuz at start up
-when you're interacting with
-01:15 your users, you have a
-fairly intimate
-01:17 interaction that you have in
-the early stages.
-01:19 And so, I think there's a
-different way of looking at
-01:21 this stuff in terms of how
-we build our products.
-01:23 And we'll look at a lot of
-different examples of that.
-01:25 And how it's executed well.
-01:28 My philosophy behind a lot
-of things that I teach
-01:31 startups is the best way to
-sort of get to a billion
-01:33 dollars is to focus on the
-values that help you
-01:36 get that first dollar, to
-acquire that first user.
-01:39 If you sort of get that
-right everything else will
-01:41 sort of take care of itself.
-01:43 It's a sort of faith thing.
-01:45 So I came to be a partner at
-YC by way of being alumni.
-01:50 I went to the program in
-winter of 2006, so
-01:52 it's the second ever program
-and
-01:54 I built a product called
-Wufoo.
-01:55 Wufoo's an online forum
-builder.
-01:57 It helps you create contact
-forums and
-01:59 online surveys and simple
-payment forms.
-02:01 It's basically a database
-that looks like it's
-02:03 designed by Fisher Price.
-02:05 What's.
-02:06 Interesting, though, is that
-because it was fairly easy
-02:09 to use, we're had customers
-from every industry, market,
-02:13 and vertical you can think
-of, including a,
-02:16 a majority of the Fortune
-500 companies out there.
-02:18 Ran the company for five
-years, and
-02:21 then we were acquired by
-SurveyMonkey in 2013.
-02:24 And at the time,
-02:26 we were a very interesting
-acquisition.
-02:29 We were only a team of ten
-people at the time.
-02:30 And, while we acquired
-funding out here in
-02:33 Silicon Valley through Y
-Combinator we actually ran
-02:36 the company from Florida.
-02:37 We had no office.
-02:39 Everyone worked from home.
-02:42 And we're an interesting
-outlier.
-02:44 So, each dot here represents
-a start up that was,
-02:48 that exited through IPO or
-acquisition.
-02:50 And we're this outlier to
-the left.
-02:52 The bottom is the funding
-amount they took.
-02:54 And the vertical axis is,
-02:56 the valuation of the company
-at the time.
-02:57 To sum it up,
-02:58 the average startup rates as
-about $25 million.
-03:02 And they return to their
-investors about 676%.
-03:05 Wufoo raised about $118
-thousand total.
-03:09 And our return to our
-investors is about 29,000%.
-03:13 &gt;&gt; So a lot of people were
-very interested.
-03:15 And are sort of like.
-03:16 What makes.
-03:16 Wufoo a little bit different
-or
-03:18 how do we run the company
-very differently, and
-03:20 a lot of it was focused on
-product.
-03:23 We weren't interested in
-building software that,
-03:25 I guess that just people
-wanted to use.
-03:29 Right.
-That reminding you that you
-03:30 worked in a cubicle,
-03:31 cuz it was database app at
-its sort of core.
-03:34 We wanted a product that
-people wanted to love.
-03:37 That people wanted to have a
-relationship with, and we
-03:39 were actually very fanatical
-about how we approached.
-03:42 This idea.
-03:44 At the point where it's
-almost sort of
-03:47 sort of sciency sort of way.
-03:50 So what we said was like
-Okay.
-03:52 What's interesting about
-start-ups in terms of
-03:55 us wanting to create things
-that people love is that,
-03:59 love and unconditional sort
-of feelings are things that
-04:01 are difficult for us to do
-in sort of real life.
-04:04 And at start-ups we have to
-do it sort of at scale.
-04:07 So we've decided to do is
-04:08 just start of by just
-looking at, Okay,
-04:10 how does real relationships
-work in the real world, and
-04:13 how can we apply them to
-sort of how we
-04:14 run our business and sort of
-build our product that way.
-04:18 So we'll go over basically
-these two metaphors,
-04:20 find new users as if we're
-trying to date them and
-04:22 existing users as if it were
-a successful marriage.
-04:26 So when it comes to dating,
-lot of the stuff that
-04:28 we uncovered had to do with
-first impressions.
-04:33 all, all of you often talk
-about your relationships in
-04:36 terms of the origin story.
-04:37 If I asked you to tell me
-about the first kiss,
-04:39 how you sort of met, how you
-proposed,
-04:41 these are the things that we
-say over and
-04:43 over and over again.
-04:43 They're basically the
-word-of-mouth stories of our
-04:46 relationships, and they're
-the same kinds of
-04:48 things that we do with
-companies.
-04:50 Human beings
-04:51 are relationship
-manufacturing creatures.
-04:52 We cannot help, but create
-and anthropomorphize
-04:56 the things we interact with
-over and over again.
-04:60 So, whether it's the cars we
-drive,
-05:01 the clothes we wear, the
-tools and software's we use,
-05:04 we eventually prescribe
-characteristics to it.
-05:06 A personality.
-05:07 And we expect it to behave a
-certain way.
-05:09 And that's how we sort of
-interact with it.
-05:11 Now first impressions are
-important for
-05:13 the starting of any
-relationship,
-05:15 because it's the one we tell
-over and over again.
+00:01 All right. So when I talk about making products users love what I mean specifically is like how do we make things that has a passionate user base that our users are unconditionally wanting it to be successful both on the products that we build, but also the companies behind them.
+
+00:22 We're gonna go over tons of information. 
+
+00:26 Try not to take too many notes, mostly just try to listen. I'll post the link to the slides on my Twitter account and on that link, there will be a way for you to annotate the slide and you can ask me questions. And so if we don't get to them, I'll answer them after the talk.
+
+00:39 So, you guys have been listening to and hearing a lot about growth over the last several weeks, and to me I feel like growth is usually fairly simple. It's the interaction between two sort of concepts or variables. Conversion rate and churn. Right?
+
+00:55 And the gap between those two things pretty much indicate how fast you're gonna grow.
+
+01:01 And most people, especially business type people, tend to look at this interaction in terms of a very calculated in a mathematical sort of way.
+
+01:09 And today, I sort of want to talk about these things at a more human scale. All right, cuz at start up when you're interacting with your users, you have a fairly intimate interaction that you have in the early stages. And so, I think there's a different way of looking at this stuff in terms of how we build our products. And we'll look at a lot of different examples of that. And how it's executed well.
+
+01:28 My philosophy behind a lot of things that I teach startups is the best way to sort of get to a billion dollars is to focus on the values that help you get that first dollar, to acquire that first user. If you sort of get that right everything else will sort of take care of itself. It's a sort of faith thing.
+
+01:45 So I came to be a partner at YC by way of being alumni. I went to the program in winter of 2006, so it's the second ever program and I built a product called Wufoo.
+
+01:55 Wufoo's an online forum builder. It helps you create contact forums and online surveys and simple payment forms. It's basically a database that looks like it's designed by Fisher Price.
+
+02:05 What's interesting, though, is that because it was fairly easy to use, we're had customers from every industry, market, and vertical you can think of, including a majority of the Fortune 500 companies out there. Ran the company for five years, and then we were acquired by SurveyMonkey in 2013.
+
+02:24 And at the time, we were a very interesting acquisition. We were only a team of ten people at the time. And, while we acquired funding out here in Silicon Valley through Y Combinator we actually ran the company from Florida. We had no office. Everyone worked from home.
+
+02:42 And we're an interesting outlier. So, each dot here represents a start up that was, that exited through IPO or acquisition. And we're this outlier to the left. The bottom is the funding amount they took. And the vertical axis is, the valuation of the company at the time.
+
+02:57 To sum it up, the average startup rates as about $25 million. And they return to their investors about 676%. Wufoo raised about $118 thousand total. And our return to our investors is about 29,000%.
+
+03:13 So a lot of people were very interested. And are sort of like what makes Wufoo a little bit different or how do we run the company very differently, and a lot of it was focused on product.
+
+03:23 We weren't interested in building software that, I guess that just people wanted to use. Right. That reminding you that you worked in a cubicle, cuz it was database app at its sort of core.
+
+03:34 We wanted a product that people wanted to love. That people wanted to have a relationship with, and we were actually very fanatical about how we approached this idea. At the point where it's almost sort of sciency sort of way.
+
+03:50 So what we said was like Okay. What's interesting about start-ups in terms of us wanting to create things that people love is that, love and unconditional sort of feelings are things that are difficult for us to do in sort of real life. And at start-ups we have to do it sort of at scale.
+
+04:07 So we've decided to do is just start of by just looking at, Okay, how does real relationships work in the real world, and how can we apply them to sort of how we run our business and sort of build our product that way.
+
+04:18 So we'll go over basically these two metaphors, find new users as if we're trying to date them and existing users as if it were a successful marriage.
+
+04:26 So when it comes to dating, lot of the stuff that we uncovered had to do with first impressions. All of you often talk about your relationships in terms of the origin story. If I asked you to tell me about the first kiss, how you sort of met, how you proposed, these are the things that we say over and over and over again. They're basically the word-of-mouth stories of our relationships, and they're the same kinds of things that we do with companies.
+
+04:50 Human beings are relationship manufacturing creatures. We cannot help, but create and anthropomorphize the things we interact with over and over again. So, whether it's the cars we drive, the clothes we wear, the tools and software's we use, we eventually prescribe characteristics to it. A personality. And we expect it to behave a certain way. And that's how we sort of interact with it.
+
+05:11 Now first impressions are important for the starting of any
+relationship, because it's the one we tell over and over again.
+
 05:16 Right?
 05:17 And there's something
 special about how we
