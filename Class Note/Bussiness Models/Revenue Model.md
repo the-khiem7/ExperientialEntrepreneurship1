@@ -259,8 +259,8 @@ Mô hình kinh doanh "Dao cạo và lưỡi dao" (Razor and Blades) là chiến 
 
 ---
 
-**SaaS Business Model - Salesforce**
-
+# SaaS Business Model - Salesforce
+![SaaS Business Model - Salesforce](https://pplx-res.cloudinary.com/image/upload/v1750241120/user_uploads/72408308/a68946c7-9512-4413-891d-77f667cf8c27/1000041881.jpg)
 Software as a Service (SaaS) business model is a subscription-based software delivery model where applications are hosted by a third-party provider and made available to customers over the internet. This model has revolutionized the way software is distributed and consumed, offering flexibility and scalability to businesses.
 
 **Diagram Labels:**
@@ -268,11 +268,10 @@ Software as a Service (SaaS) business model is a subscription-based software del
 - IaaS: Infrastructure as a Service
 - PaaS: Platform as a Service
 
-![SaaS Business Model - Salesforce](https://pplx-res.cloudinary.com/image/upload/v1750241120/user_uploads/72408308/a68946c7-9512-4413-891d-77f667cf8c27/1000041881.jpg)
-
 ---
 
 # Crowfunding business model - Kickstarter
+![Crowfunding business model - ](https://pplx-res.cloudinary.com/image/upload/v1750241523/user_uploads/72408308/e7d5d10c-32c2-44d9-8362-3347261d1cfe/1000041882.jpg)
 
 - The crowdfunding business model, exemplified by Kickstarter, can revolutionize project funding.
 - Kickstarter's model is highlighted as a prime example of how crowdfunding can transform the way projects are financed.
@@ -316,5 +315,3 @@ Software as a Service (SaaS) business model is a subscription-based software del
 </li>
 </ul>
 </details>
-
-![Crowfunding business model - ](https://pplx-res.cloudinary.com/image/upload/v1750241523/user_uploads/72408308/e7d5d10c-32c2-44d9-8362-3347261d1cfe/1000041882.jpg)
