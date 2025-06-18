@@ -87,3 +87,32 @@ CP Group (Charoen Pokphand) là tập đoàn đa ngành lớn của Thái Lan, v
 - Tiếp cận công nghệ và quy trình hiện đại  
 - Thu nhập ổn định và bền vững hơn so với canh tác truyền thống
 </details>
+
+#### Thất bại trong quản lý nhượng quyền của Milano Coffee
+
+<details>
+<summary>Giới thiệu</summary>
+Milano Coffee từng là thương hiệu cà phê đầy tiềm năng tại thị trường Việt Nam, nhưng đã nhanh chóng sụp đổ do quản lý nhượng quyền yếu kém.
+</details>
+
+<details>
+<summary>Những vấn đề chính</summary>
+- **Thiếu kiểm soát chất lượng**: Không duy trì được tiêu chuẩn đồng nhất giữa các cửa hàng nhượng quyền  
+- **Đào tạo không đầy đủ**: Chủ nhượng quyền không được trang bị đủ kỹ năng và kiến thức vận hành  
+- **Mở rộng quá nhanh**: Cấp nhượng quyền thiếu chọn lọc để đạt mục tiêu tăng trưởng ngắn hạn
+</details>
+
+<details>
+<summary>Hậu quả</summary>
+- Trải nghiệm khách hàng không đồng nhất giữa các cửa hàng  
+- Xung đột giữa công ty mẹ và các đơn vị nhượng quyền  
+- Uy tín thương hiệu xuống cấp nhanh chóng  
+- Đóng cửa hàng loạt cửa hàng, dẫn đến sự sụp đổ của toàn bộ thương hiệu
+</details>
+
+<details>
+<summary>Bài học kinh nghiệm</summary>
+- Cần xây dựng hệ thống kiểm soát chất lượng nghiêm ngặt  
+- Đầu tư thỏa đáng vào đào tạo và hỗ trợ đối tác nhượng quyền  
+- Tăng trưởng bền vững phải đặt trên nền tảng chất lượng
+</details>
