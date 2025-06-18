@@ -14,8 +14,8 @@
 1. [Franchise](#franchise)  
 1. [Razor and blades](#razor-and-blades)  
 1. Asset-Light Business Model  
-1. SaaS  
-1. Crowdfunding  
+1. [SaaS](#saas)
+1. [Crowdfunding](#crowfunding-business-model---kickstarter)  
 1. Business model CANVAS  
 1. SHEIN  
 
@@ -171,6 +171,8 @@ SaigonCoop (Liên hiệp Hợp tác xã Thương mại TP.HCM) là đơn vị b�
 </ul>
 </details>
 
+---
+
 # Razor and blades
 
 Mô hình kinh doanh "Dao cạo và lưỡi dao" (Razor and Blades) là chiến lược kinh doanh trong đó doanh nghiệp bán sản phẩm cơ bản (dao cạo) với giá thấp hoặc thậm chí lỗ, nhưng thu lợi nhuận từ việc bán các sản phẩm tiêu dùng bổ sung (lưỡi dao) với biên lợi nhuận cao hơn nhiều.
@@ -254,3 +256,16 @@ Mô hình kinh doanh "Dao cạo và lưỡi dao" (Razor and Blades) là chiến 
 </li>
 </ul>
 </details>
+
+---
+
+**SaaS Business Model - Salesforce**
+
+Software as a Service (SaaS) business model is a subscription-based software delivery model where applications are hosted by a third-party provider and made available to customers over the internet. This model has revolutionized the way software is distributed and consumed, offering flexibility and scalability to businesses.
+
+**Diagram Labels:**
+- SaaS: Software as a Service
+- IaaS: Infrastructure as a Service
+- PaaS: Platform as a Service
+
+![SaaS Business Model - Salesforce](https://pplx-res.cloudinary.com/image/upload/v1750241120/user_uploads/72408308/a68946c7-9512-4413-891d-77f667cf8c27/1000041881.jpg)
