@@ -155,61 +155,46 @@ SaigonCoop (Liên hiệp Hợp tác xã Thương mại TP.HCM) là đơn vị b�
 
 Mô hình kinh doanh "Dao cạo và lưỡi dao" (Razor and Blades) là chiến lược kinh doanh trong đó doanh nghiệp bán sản phẩm cơ bản (dao cạo) với giá thấp hoặc thậm chí lỗ, nhưng thu lợi nhuận từ việc bán các sản phẩm tiêu dùng bổ sung (lưỡi dao) với biên lợi nhuận cao hơn nhiều.
 
-<details>
-<summary>Nguyên lý hoạt động</summary>
-- **Sản phẩm cơ bản giá rẻ**: Công ty bán sản phẩm ban đầu với giá thấp để thu hút khách hàng  
-- **Phụ kiện giá cao**: Tạo lợi nhuận chính từ việc bán các sản phẩm tiêu dùng thường xuyên  
-- **Tạo sự phụ thuộc**: Khách hàng bị "khóa" vào hệ sinh thái sản phẩm  
-- **Doanh thu lặp lại**: Đảm bảo nguồn thu ổn định, lâu dài từ mỗi khách hàng
-</details>
+- **Nguyên lý hoạt động**
+    - **Sản phẩm cơ bản giá rẻ**: Công ty bán sản phẩm ban đầu với giá thấp để thu hút khách hàng  
+    - **Phụ kiện giá cao**: Tạo lợi nhuận chính từ việc bán các sản phẩm tiêu dùng thường xuyên  
+    - **Tạo sự phụ thuộc**: Khách hàng bị "khóa" vào hệ sinh thái sản phẩm  
+    - **Doanh thu lặp lại**: Đảm bảo nguồn thu ổn định, lâu dài từ mỗi khách hàng
 
-<details>
-<summary>Ví dụ: Máy in và mực in</summary>
-- Các công ty như HP, Canon, Epson bán máy in với giá cạnh tranh, thậm chí dưới giá thành  
-- Lợi nhuận chính đến từ việc bán hộp mực với giá cao (chi phí sản xuất thấp nhưng giá bán cao)  
-- Nhiều máy in được thiết kế để chỉ tương thích với hộp mực chính hãng  
-- Tổng chi phí sở hữu máy in qua thời gian chủ yếu đến từ mực in, không phải từ thiết bị
-</details>
+- **Ví dụ: Máy in và mực in**
+    - Các công ty như HP, Canon, Epson bán máy in với giá cạnh tranh, thậm chí dưới giá thành  
+    - Lợi nhuận chính đến từ việc bán hộp mực với giá cao (chi phí sản xuất thấp nhưng giá bán cao)  
+    - Nhiều máy in được thiết kế để chỉ tương thích với hộp mực chính hãng  
+    - Tổng chi phí sở hữu máy in qua thời gian chủ yếu đến từ mực in, không phải từ thiết bị
 
-<details>
-<summary>Ví dụ: PlayStation và đĩa game</summary>
-- Sony thường bán máy PlayStation với biên lợi nhuận thấp hoặc thậm chí lỗ trong giai đoạn đầu  
-- Lợi nhuận đến từ:
-    - Bán game (với tỷ lệ hoa hồng cho mỗi đĩa game)
-    - Phí bản quyền từ nhà phát triển game
-    - Dịch vụ thuê bao PlayStation Plus
-    - Nội dung tải về và các giao dịch trong game
-</details>
+- **Ví dụ: PlayStation và đĩa game**
+    - Sony thường bán máy PlayStation với biên lợi nhuận thấp hoặc thậm chí lỗ trong giai đoạn đầu  
+    - Lợi nhuận đến từ:  
+        - Bán game (với tỷ lệ hoa hồng cho mỗi đĩa game)  
+        - Phí bản quyền từ nhà phát triển game  
+        - Dịch vụ thuê bao PlayStation Plus  
+        - Nội dung tải về và các giao dịch trong game
 
-<details>
-<summary>Ví dụ: iPhone và hệ sinh thái Apple</summary>
-- Apple không áp dụng chính xác mô hình Razor and Blades vì iPhone đã có lợi nhuận cao  
-- Tuy nhiên, Apple tạo ra hệ sinh thái khóa người dùng:
-    - Phụ kiện độc quyền (sạc, tai nghe, dây cáp)
-    - Dịch vụ đám mây iCloud với phí hàng tháng
-    - Apple Music, Apple TV+, Apple Arcade
-    - App Store với phí hoa hồng 15-30% từ giao dịch
-</details>
+- **Ví dụ: iPhone và hệ sinh thái Apple**
+    - Apple không áp dụng chính xác mô hình Razor and Blades vì iPhone đã có lợi nhuận cao  
+    - Tuy nhiên, Apple tạo ra hệ sinh thái khóa người dùng:  
+        - Phụ kiện độc quyền (sạc, tai nghe, dây cáp)  
+        - Dịch vụ đám mây iCloud với phí hàng tháng  
+        - Apple Music, Apple TV+, Apple Arcade  
+        - App Store với phí hoa hồng 15-30% từ giao dịch
 
-<details>
-<summary>Ví dụ: Máy lọc nước và lõi lọc</summary>
-- Các công ty như Kangaroo, Karofi bán máy lọc nước với giá phải chăng  
-- Doanh thu chính và ổn định đến từ việc thay thế lõi lọc định kỳ  
-- Khách hàng cần thay lõi mỗi 3-6 tháng trong suốt vòng đời sử dụng máy (5-10 năm)  
-- Nhiều công ty thiết kế lõi lọc độc quyền để ngăn chặn việc sử dụng phụ kiện của đối thủ
-</details>
+- **Ví dụ: Máy lọc nước và lõi lọc**
+    - Các công ty như Kangaroo, Karofi bán máy lọc nước với giá phải chăng  
+    - Doanh thu chính và ổn định đến từ việc thay thế lõi lọc định kỳ  
+    - Khách hàng cần thay lõi mỗi 3-6 tháng trong suốt vòng đời sử dụng máy (5-10 năm)  
+    - Nhiều công ty thiết kế lõi lọc độc quyền để ngăn chặn việc sử dụng phụ kiện của đối thủ
 
-<details>
-<summary>Ưu và nhược điểm</summary>
-
-**Ưu điểm:**
-- Giảm rào cản gia nhập cho khách hàng mới
-- Tạo dòng doanh thu ổn định, lâu dài
-- Khách hàng có xu hướng gắn bó với thương hiệu
-
-**Nhược điểm:**
-- Đối mặt với cạnh tranh từ sản phẩm thay thế không chính hãng
-- Có thể tạo ra ấn tượng tiêu cực khi khách hàng nhận ra chiến lược
-- Cần đầu tư ban đầu lớn để phát triển hệ sinh thái sản phẩm
-</details>
-# Razor and blades
+- **Ưu và nhược điểm**
+    - **Ưu điểm:**  
+        - Giảm rào cản gia nhập cho khách hàng mới  
+        - Tạo dòng doanh thu ổn định, lâu dài  
+        - Khách hàng có xu hướng gắn bó với thương hiệu  
+    - **Nhược điểm:**  
+        - Đối mặt với cạnh tranh từ sản phẩm thay thế không chính hãng  
+        - Có thể tạo ra ấn tượng tiêu cực khi khách hàng nhận ra chiến lược  
+        - Cần đầu tư ban đầu lớn để phát triển hệ sinh thái sản phẩm
