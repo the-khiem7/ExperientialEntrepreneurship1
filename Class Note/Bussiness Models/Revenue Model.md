@@ -44,5 +44,25 @@ Dí dỏm là như 1 cái chợ truyền thống ⇒ mọi yếu tố của ch�
 3. **Operational Efficiency**  
     Streamlined processes for high volume output.
 
-*Summary:*  
 The franchise business model, exemplified by McDonald's, showcases a global presence, standardization of products and services, and operational efficiency. This model has been instrumental in McDonald's success and continues to be a dominant force in the fast-food industry.
+
+#### Mô hình nhượng quyền của Highland Coffee
+
+<details>
+<summary>Giới thiệu</summary>
+Highland Coffee là chuỗi cà phê nổi tiếng của Việt Nam, được thành lập năm 1999 và đã phát triển thành một trong những thương hiệu cà phê hàng đầu tại Việt Nam thông qua mô hình nhượng quyền.
+</details>
+
+<details>
+<summary>Cơ chế nhượng quyền</summary>
+- **Đầu tư ban đầu**: Người nhận nhượng quyền cần đầu tư vốn cho địa điểm, trang thiết bị và phí nhượng quyền  
+- **Tiêu chuẩn hóa**: Highland đảm bảo trải nghiệm thống nhất thông qua thiết kế, menu và quy trình chuẩn  
+- **Hỗ trợ thương hiệu**: Được sử dụng thương hiệu Highland đã được khẳng định trên thị trường
+</details>
+
+<details>
+<summary>Lợi ích nhượng quyền</summary>
+- Được đào tạo quy trình vận hành chuẩn  
+- Hỗ trợ marketing và quảng bá thương hiệu  
+- Hệ thống cung ứng nguyên liệu đảm bảo chất lượng
+</details>
