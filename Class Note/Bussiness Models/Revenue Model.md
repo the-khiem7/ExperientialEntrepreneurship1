@@ -269,3 +269,16 @@ Software as a Service (SaaS) business model is a subscription-based software del
 - PaaS: Platform as a Service
 
 ![SaaS Business Model - Salesforce](https://pplx-res.cloudinary.com/image/upload/v1750241120/user_uploads/72408308/a68946c7-9512-4413-891d-77f667cf8c27/1000041881.jpg)
+
+---
+
+# Crowfunding business model - Kickstarter
+
+- The crowdfunding business model, exemplified by Kickstarter, can revolutionize project funding.
+- Kickstarter's model is highlighted as a prime example of how crowdfunding can transform the way projects are financed.
+
+**Vietnam's Crowdfunding Platforms:**
+- StartMeUp.vn: Supports startups in Vietnam by connecting them with potential investors.
+- Comicola: A crowdfunding platform for creative projects, including comics and graphic novels[1].
+
+![Crowfunding business model - ](https://pplx-res.cloudinary.com/image/upload/v1750241523/user_uploads/72408308/e7d5d10c-32c2-44d9-8362-3347261d1cfe/1000041882.jpg)
