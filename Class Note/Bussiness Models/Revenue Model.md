@@ -9,9 +9,9 @@
 1. Subscription-based  
 1. Peer-to-Peer  
 1. Freemium  
-1. [Direct sale to customer](#direct-sale-to-customer)
-1. [Marketplace](#marketplace)
-1. [Franchise](#franchise)
+1. [Direct sale to customer](#direct-sale-to-customer)  
+1. [Marketplace](#marketplace)  
+1. [Franchise](#franchise)  
 1. [Razor and blades](#razor-and-blades)  
 1. Asset-Light Business Model  
 1. SaaS  
@@ -57,16 +57,20 @@ Highland Coffee là chuỗi cà phê nổi tiếng của Việt Nam, được th
 
 <details>
 <summary>Cơ chế nhượng quyền</summary>
-- **Đầu tư ban đầu**: Người nhận nhượng quyền cần đầu tư vốn cho địa điểm, trang thiết bị và phí nhượng quyền  
-- **Tiêu chuẩn hóa**: Highland đảm bảo trải nghiệm thống nhất thông qua thiết kế, menu và quy trình chuẩn  
-- **Hỗ trợ thương hiệu**: Được sử dụng thương hiệu Highland đã được khẳng định trên thị trường
+<ul>
+<li><strong>Đầu tư ban đầu</strong>: Người nhận nhượng quyền cần đầu tư vốn cho địa điểm, trang thiết bị và phí nhượng quyền</li>
+<li><strong>Tiêu chuẩn hóa</strong>: Highland đảm bảo trải nghiệm thống nhất thông qua thiết kế, menu và quy trình chuẩn</li>
+<li><strong>Hỗ trợ thương hiệu</strong>: Được sử dụng thương hiệu Highland đã được khẳng định trên thị trường</li>
+</ul>
 </details>
 
 <details>
 <summary>Lợi ích nhượng quyền</summary>
-- Được đào tạo quy trình vận hành chuẩn  
-- Hỗ trợ marketing và quảng bá thương hiệu  
-- Hệ thống cung ứng nguyên liệu đảm bảo chất lượng
+<ul>
+<li>Được đào tạo quy trình vận hành chuẩn</li>
+<li>Hỗ trợ marketing và quảng bá thương hiệu</li>
+<li>Hệ thống cung ứng nguyên liệu đảm bảo chất lượng</li>
+</ul>
 </details>
 
 #### Mô hình nhượng quyền đất của CP Group
@@ -78,16 +82,20 @@ CP Group (Charoen Pokphand) là tập đoàn đa ngành lớn của Thái Lan, v
 
 <details>
 <summary>Cơ chế nhượng quyền đất</summary>
-- **Hợp tác đất đai**: CP cung cấp công nghệ và kỹ thuật, người nông dân đóng góp đất và sức lao động  
-- **Hỗ trợ kỹ thuật**: Tập đoàn cung cấp giống, thức ăn và quy trình chăn nuôi tiêu chuẩn  
-- **Cam kết thu mua**: CP bảo đảm thu mua sản phẩm đạt tiêu chuẩn với giá ổn định
+<ul>
+<li><strong>Hợp tác đất đai</strong>: CP cung cấp công nghệ và kỹ thuật, người nông dân đóng góp đất và sức lao động</li>
+<li><strong>Hỗ trợ kỹ thuật</strong>: Tập đoàn cung cấp giống, thức ăn và quy trình chăn nuôi tiêu chuẩn</li>
+<li><strong>Cam kết thu mua</strong>: CP bảo đảm thu mua sản phẩm đạt tiêu chuẩn với giá ổn định</li>
+</ul>
 </details>
 
 <details>
 <summary>Lợi ích cho người tham gia</summary>
-- Giảm thiểu rủi ro thị trường cho nông dân  
-- Tiếp cận công nghệ và quy trình hiện đại  
-- Thu nhập ổn định và bền vững hơn so với canh tác truyền thống
+<ul>
+<li>Giảm thiểu rủi ro thị trường cho nông dân</li>
+<li>Tiếp cận công nghệ và quy trình hiện đại</li>
+<li>Thu nhập ổn định và bền vững hơn so với canh tác truyền thống</li>
+</ul>
 </details>
 
 #### Thất bại trong quản lý nhượng quyền của Milano Coffee
@@ -99,24 +107,30 @@ Milano Coffee từng là thương hiệu cà phê đầy tiềm năng tại th�
 
 <details>
 <summary>Những vấn đề chính</summary>
-- **Thiếu kiểm soát chất lượng**: Không duy trì được tiêu chuẩn đồng nhất giữa các cửa hàng nhượng quyền  
-- **Đào tạo không đầy đủ**: Chủ nhượng quyền không được trang bị đủ kỹ năng và kiến thức vận hành  
-- **Mở rộng quá nhanh**: Cấp nhượng quyền thiếu chọn lọc để đạt mục tiêu tăng trưởng ngắn hạn
+<ul>
+<li><strong>Thiếu kiểm soát chất lượng</strong>: Không duy trì được tiêu chuẩn đồng nhất giữa các cửa hàng nhượng quyền</li>
+<li><strong>Đào tạo không đầy đủ</strong>: Chủ nhượng quyền không được trang bị đủ kỹ năng và kiến thức vận hành</li>
+<li><strong>Mở rộng quá nhanh</strong>: Cấp nhượng quyền thiếu chọn lọc để đạt mục tiêu tăng trưởng ngắn hạn</li>
+</ul>
 </details>
 
 <details>
 <summary>Hậu quả</summary>
-- Trải nghiệm khách hàng không đồng nhất giữa các cửa hàng  
-- Xung đột giữa công ty mẹ và các đơn vị nhượng quyền  
-- Uy tín thương hiệu xuống cấp nhanh chóng  
-- Đóng cửa hàng loạt cửa hàng, dẫn đến sự sụp đổ của toàn bộ thương hiệu
+<ul>
+<li>Trải nghiệm khách hàng không đồng nhất giữa các cửa hàng</li>
+<li>Xung đột giữa công ty mẹ và các đơn vị nhượng quyền</li>
+<li>Uy tín thương hiệu xuống cấp nhanh chóng</li>
+<li>Đóng cửa hàng loạt cửa hàng, dẫn đến sự sụp đổ của toàn bộ thương hiệu</li>
+</ul>
 </details>
 
 <details>
 <summary>Bài học kinh nghiệm</summary>
-- Cần xây dựng hệ thống kiểm soát chất lượng nghiêm ngặt  
-- Đầu tư thỏa đáng vào đào tạo và hỗ trợ đối tác nhượng quyền  
-- Tăng trưởng bền vững phải đặt trên nền tảng chất lượng
+<ul>
+<li>Cần xây dựng hệ thống kiểm soát chất lượng nghiêm ngặt</li>
+<li>Đầu tư thỏa đáng vào đào tạo và hỗ trợ đối tác nhượng quyền</li>
+<li>Tăng trưởng bền vững phải đặt trên nền tảng chất lượng</li>
+</ul>
 </details>
 
 #### Mô hình nhượng quyền CoopSmile của SaigonCoop
@@ -128,73 +142,115 @@ SaigonCoop (Liên hiệp Hợp tác xã Thương mại TP.HCM) là đơn vị b�
 
 <details>
 <summary>Mô hình nhượng quyền CoopSmile</summary>
-- **Định vị thị trường**: Chuỗi cửa hàng tiện lợi phục vụ khu dân cư, tập trung vào mua sắm nhanh chóng và tiện lợi  
-- **Quy mô**: Diện tích từ 40-100m², phù hợp với nhiều vị trí kinh doanh  
-- **Hỗ trợ đối tác**: Đào tạo quy trình vận hành, hệ thống quản lý hàng hóa, và tiếp cận nguồn hàng chất lượng  
-- **Chi phí**: Đầu tư ban đầu thấp hơn so với các mô hình bán lẻ lớn, phù hợp với nhà đầu tư vừa và nhỏ
+<ul>
+<li><strong>Định vị thị trường</strong>: Chuỗi cửa hàng tiện lợi phục vụ khu dân cư, tập trung vào mua sắm nhanh chóng và tiện lợi</li>
+<li><strong>Quy mô</strong>: Diện tích từ 40-100m², phù hợp với nhiều vị trí kinh doanh</li>
+<li><strong>Hỗ trợ đối tác</strong>: Đào tạo quy trình vận hành, hệ thống quản lý hàng hóa, và tiếp cận nguồn hàng chất lượng</li>
+<li><strong>Chi phí</strong>: Đầu tư ban đầu thấp hơn so với các mô hình bán lẻ lớn, phù hợp với nhà đầu tư vừa và nhỏ</li>
+</ul>
 </details>
 
 <details>
 <summary>Các nhánh kinh doanh của SaigonCoop</summary>
-- **SaigonTourist**: Mảng du lịch và khách sạn, quản lý nhiều khách sạn và khu nghỉ dưỡng cao cấp  
-- **Co.opmart**: Hệ thống siêu thị lớn, là thương hiệu chủ lực của SaigonCoop  
-- **Co.opXtra**: Mô hình siêu thị lớn kết hợp trung tâm thương mại  
-- **Co.op Food**: Chuỗi cửa hàng thực phẩm quy mô vừa  
-- **Co.op Online**: Nền tảng thương mại điện tử của SaigonCoop
+<ul>
+<li><strong>SaigonTourist</strong>: Mảng du lịch và khách sạn, quản lý nhiều khách sạn và khu nghỉ dưỡng cao cấp</li>
+<li><strong>Co.opmart</strong>: Hệ thống siêu thị lớn, là thương hiệu chủ lực của SaigonCoop</li>
+<li><strong>Co.opXtra</strong>: Mô hình siêu thị lớn kết hợp trung tâm thương mại</li>
+<li><strong>Co.op Food</strong>: Chuỗi cửa hàng thực phẩm quy mô vừa</li>
+<li><strong>Co.op Online</strong>: Nền tảng thương mại điện tử của SaigonCoop</li>
+</ul>
 </details>
 
 <details>
 <summary>Lợi thế cạnh tranh của nhượng quyền CoopSmile</summary>
-- Tận dụng được uy tín và hệ thống cung ứng của SaigonCoop  
-- Mô hình kinh doanh đã được chuẩn hóa, giảm thiểu rủi ro cho nhà đầu tư  
-- Hỗ trợ marketing và quảng bá thương hiệu toàn hệ thống  
-- Chính sách giá cạnh tranh nhờ quy mô mua hàng lớn của tập đoàn
+<ul>
+<li>Tận dụng được uy tín và hệ thống cung ứng của SaigonCoop</li>
+<li>Mô hình kinh doanh đã được chuẩn hóa, giảm thiểu rủi ro cho nhà đầu tư</li>
+<li>Hỗ trợ marketing và quảng bá thương hiệu toàn hệ thống</li>
+<li>Chính sách giá cạnh tranh nhờ quy mô mua hàng lớn của tập đoàn</li>
+</ul>
 </details>
 
 # Razor and blades
 
 Mô hình kinh doanh "Dao cạo và lưỡi dao" (Razor and Blades) là chiến lược kinh doanh trong đó doanh nghiệp bán sản phẩm cơ bản (dao cạo) với giá thấp hoặc thậm chí lỗ, nhưng thu lợi nhuận từ việc bán các sản phẩm tiêu dùng bổ sung (lưỡi dao) với biên lợi nhuận cao hơn nhiều.
 
-- **Nguyên lý hoạt động**
-    - **Sản phẩm cơ bản giá rẻ**: Công ty bán sản phẩm ban đầu với giá thấp để thu hút khách hàng  
-    - **Phụ kiện giá cao**: Tạo lợi nhuận chính từ việc bán các sản phẩm tiêu dùng thường xuyên  
-    - **Tạo sự phụ thuộc**: Khách hàng bị "khóa" vào hệ sinh thái sản phẩm  
-    - **Doanh thu lặp lại**: Đảm bảo nguồn thu ổn định, lâu dài từ mỗi khách hàng
+<details>
+<summary>Nguyên lý hoạt động</summary>
+<ul>
+<li><strong>Sản phẩm cơ bản giá rẻ</strong>: Công ty bán sản phẩm ban đầu với giá thấp để thu hút khách hàng</li>
+<li><strong>Phụ kiện giá cao</strong>: Tạo lợi nhuận chính từ việc bán các sản phẩm tiêu dùng thường xuyên</li>
+<li><strong>Tạo sự phụ thuộc</strong>: Khách hàng bị "khóa" vào hệ sinh thái sản phẩm</li>
+<li><strong>Doanh thu lặp lại</strong>: Đảm bảo nguồn thu ổn định, lâu dài từ mỗi khách hàng</li>
+</ul>
+</details>
 
-- **Ví dụ: Máy in và mực in**
-    - Các công ty như HP, Canon, Epson bán máy in với giá cạnh tranh, thậm chí dưới giá thành  
-    - Lợi nhuận chính đến từ việc bán hộp mực với giá cao (chi phí sản xuất thấp nhưng giá bán cao)  
-    - Nhiều máy in được thiết kế để chỉ tương thích với hộp mực chính hãng  
-    - Tổng chi phí sở hữu máy in qua thời gian chủ yếu đến từ mực in, không phải từ thiết bị
+<details>
+<summary>Ví dụ: Máy in và mực in</summary>
+<ul>
+<li>Các công ty như HP, Canon, Epson bán máy in với giá cạnh tranh, thậm chí dưới giá thành</li>
+<li>Lợi nhuận chính đến từ việc bán hộp mực với giá cao (chi phí sản xuất thấp nhưng giá bán cao)</li>
+<li>Nhiều máy in được thiết kế để chỉ tương thích với hộp mực chính hãng</li>
+<li>Tổng chi phí sở hữu máy in qua thời gian chủ yếu đến từ mực in, không phải từ thiết bị</li>
+</ul>
+</details>
 
-- **Ví dụ: PlayStation và đĩa game**
-    - Sony thường bán máy PlayStation với biên lợi nhuận thấp hoặc thậm chí lỗ trong giai đoạn đầu  
-    - Lợi nhuận đến từ:  
-        - Bán game (với tỷ lệ hoa hồng cho mỗi đĩa game)  
-        - Phí bản quyền từ nhà phát triển game  
-        - Dịch vụ thuê bao PlayStation Plus  
-        - Nội dung tải về và các giao dịch trong game
+<details>
+<summary>Ví dụ: PlayStation và đĩa game</summary>
+<ul>
+<li>Sony thường bán máy PlayStation với biên lợi nhuận thấp hoặc thậm chí lỗ trong giai đoạn đầu</li>
+<li>Lợi nhuận đến từ:
+<ul>
+<li>Bán game (với tỷ lệ hoa hồng cho mỗi đĩa game)</li>
+<li>Phí bản quyền từ nhà phát triển game</li>
+<li>Dịch vụ thuê bao PlayStation Plus</li>
+<li>Nội dung tải về và các giao dịch trong game</li>
+</ul>
+</li>
+</ul>
+</details>
 
-- **Ví dụ: iPhone và hệ sinh thái Apple**
-    - Apple không áp dụng chính xác mô hình Razor and Blades vì iPhone đã có lợi nhuận cao  
-    - Tuy nhiên, Apple tạo ra hệ sinh thái khóa người dùng:  
-        - Phụ kiện độc quyền (sạc, tai nghe, dây cáp)  
-        - Dịch vụ đám mây iCloud với phí hàng tháng  
-        - Apple Music, Apple TV+, Apple Arcade  
-        - App Store với phí hoa hồng 15-30% từ giao dịch
+<details>
+<summary>Ví dụ: iPhone và hệ sinh thái Apple</summary>
+<ul>
+<li>Apple không áp dụng chính xác mô hình Razor and Blades vì iPhone đã có lợi nhuận cao</li>
+<li>Tuy nhiên, Apple tạo ra hệ sinh thái khóa người dùng:
+<ul>
+<li>Phụ kiện độc quyền (sạc, tai nghe, dây cáp)</li>
+<li>Dịch vụ đám mây iCloud với phí hàng tháng</li>
+<li>Apple Music, Apple TV+, Apple Arcade</li>
+<li>App Store với phí hoa hồng 15-30% từ giao dịch</li>
+</ul>
+</li>
+</ul>
+</details>
 
-- **Ví dụ: Máy lọc nước và lõi lọc**
-    - Các công ty như Kangaroo, Karofi bán máy lọc nước với giá phải chăng  
-    - Doanh thu chính và ổn định đến từ việc thay thế lõi lọc định kỳ  
-    - Khách hàng cần thay lõi mỗi 3-6 tháng trong suốt vòng đời sử dụng máy (5-10 năm)  
-    - Nhiều công ty thiết kế lõi lọc độc quyền để ngăn chặn việc sử dụng phụ kiện của đối thủ
+<details>
+<summary>Ví dụ: Máy lọc nước và lõi lọc</summary>
+<ul>
+<li>Các công ty như Kangaroo, Karofi bán máy lọc nước với giá phải chăng</li>
+<li>Doanh thu chính và ổn định đến từ việc thay thế lõi lọc định kỳ</li>
+<li>Khách hàng cần thay lõi mỗi 3-6 tháng trong suốt vòng đời sử dụng máy (5-10 năm)</li>
+<li>Nhiều công ty thiết kế lõi lọc độc quyền để ngăn chặn việc sử dụng phụ kiện của đối thủ</li>
+</ul>
+</details>
 
-- **Ưu và nhược điểm**
-    - **Ưu điểm:**  
-        - Giảm rào cản gia nhập cho khách hàng mới  
-        - Tạo dòng doanh thu ổn định, lâu dài  
-        - Khách hàng có xu hướng gắn bó với thương hiệu  
-    - **Nhược điểm:**  
-        - Đối mặt với cạnh tranh từ sản phẩm thay thế không chính hãng  
-        - Có thể tạo ra ấn tượng tiêu cực khi khách hàng nhận ra chiến lược  
-        - Cần đầu tư ban đầu lớn để phát triển hệ sinh thái sản phẩm
+<details>
+<summary>Ưu và nhược điểm</summary>
+<ul>
+<li><strong>Ưu điểm:</strong>
+<ul>
+<li>Giảm rào cản gia nhập cho khách hàng mới</li>
+<li>Tạo dòng doanh thu ổn định, lâu dài</li>
+<li>Khách hàng có xu hướng gắn bó với thương hiệu</li>
+</ul>
+</li>
+<li><strong>Nhược điểm:</strong>
+<ul>
+<li>Đối mặt với cạnh tranh từ sản phẩm thay thế không chính hãng</li>
+<li>Có thể tạo ra ấn tượng tiêu cực khi khách hàng nhận ra chiến lược</li>
+<li>Cần đầu tư ban đầu lớn để phát triển hệ sinh thái sản phẩm</li>
+</ul>
+</li>
+</ul>
+</details>
