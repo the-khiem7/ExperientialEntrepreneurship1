@@ -116,3 +116,35 @@ Milano Coffee từng là thương hiệu cà phê đầy tiềm năng tại th�
 - Đầu tư thỏa đáng vào đào tạo và hỗ trợ đối tác nhượng quyền  
 - Tăng trưởng bền vững phải đặt trên nền tảng chất lượng
 </details>
+
+#### Mô hình nhượng quyền CoopSmile của SaigonCoop
+
+<details>
+<summary>Tổng quan về SaigonCoop</summary>
+SaigonCoop (Liên hiệp Hợp tác xã Thương mại TP.HCM) là đơn vị bán lẻ hàng đầu Việt Nam, thành lập năm 1989 và phát triển thành hệ thống đa ngành với nhiều thương hiệu như Co.opmart, Co.opXtra, Co.op Food và mô hình nhượng quyền CoopSmile.
+</details>
+
+<details>
+<summary>Mô hình nhượng quyền CoopSmile</summary>
+- **Định vị thị trường**: Chuỗi cửa hàng tiện lợi phục vụ khu dân cư, tập trung vào mua sắm nhanh chóng và tiện lợi  
+- **Quy mô**: Diện tích từ 40-100m², phù hợp với nhiều vị trí kinh doanh  
+- **Hỗ trợ đối tác**: Đào tạo quy trình vận hành, hệ thống quản lý hàng hóa, và tiếp cận nguồn hàng chất lượng  
+- **Chi phí**: Đầu tư ban đầu thấp hơn so với các mô hình bán lẻ lớn, phù hợp với nhà đầu tư vừa và nhỏ
+</details>
+
+<details>
+<summary>Các nhánh kinh doanh của SaigonCoop</summary>
+- **SaigonTourist**: Mảng du lịch và khách sạn, quản lý nhiều khách sạn và khu nghỉ dưỡng cao cấp  
+- **Co.opmart**: Hệ thống siêu thị lớn, là thương hiệu chủ lực của SaigonCoop  
+- **Co.opXtra**: Mô hình siêu thị lớn kết hợp trung tâm thương mại  
+- **Co.op Food**: Chuỗi cửa hàng thực phẩm quy mô vừa  
+- **Co.op Online**: Nền tảng thương mại điện tử của SaigonCoop
+</details>
+
+<details>
+<summary>Lợi thế cạnh tranh của nhượng quyền CoopSmile</summary>
+- Tận dụng được uy tín và hệ thống cung ứng của SaigonCoop  
+- Mô hình kinh doanh đã được chuẩn hóa, giảm thiểu rủi ro cho nhà đầu tư  
+- Hỗ trợ marketing và quảng bá thương hiệu toàn hệ thống  
+- Chính sách giá cạnh tranh nhờ quy mô mua hàng lớn của tập đoàn
+</details>
