@@ -281,4 +281,40 @@ Software as a Service (SaaS) business model is a subscription-based software del
 - StartMeUp.vn: Supports startups in Vietnam by connecting them with potential investors.
 - Comicola: A crowdfunding platform for creative projects, including comics and graphic novels[1].
 
+<details>
+<summary>Case Study: Thỏ bảy màu</summary>
+<ul>
+<li><strong>Tổng quan</strong>: Thỏ bảy màu là một dự án gọi vốn cộng đồng thành công của Việt Nam, bắt đầu là một truyện tranh độc lập và phát triển thành một thương hiệu đa phương tiện.</li>
+<li><strong>Hành trình gọi vốn</strong>:
+  <ul>
+    <li>Ban đầu được ra mắt trên nền tảng Comicola, một nền tảng gọi vốn cộng đồng Việt Nam cho các dự án sáng tạo</li>
+    <li>Đặt mục tiêu gọi vốn ban đầu là 150 triệu VNĐ nhưng đã đạt được hơn 300 triệu VNĐ</li>
+    <li>Có hơn 1.000 người ủng hộ trong chiến dịch đầu tiên</li>
+  </ul>
+</li>
+<li><strong>Yếu tố thành công</strong>:
+  <ul>
+    <li>Phong cách nghệ thuật và cách kể chuyện độc đáo thu hút giới trẻ Việt Nam</li>
+    <li>Hiện diện mạnh mẽ trên mạng xã hội và xây dựng cộng đồng trước khi bắt đầu chiến dịch</li>
+    <li>Hệ thống phần thưởng hấp dẫn với nhiều cấp độ khác nhau (bản sao kỹ thuật số, sách vật lý, hàng hóa phiên bản giới hạn)</li>
+    <li>Giao tiếp minh bạch trong suốt quá trình gọi vốn</li>
+  </ul>
+</li>
+<li><strong>Mở rộng</strong>:
+  <ul>
+    <li>Phát triển từ truyện tranh đến hàng hóa, dự án hoạt hình và hợp tác thương hiệu</li>
+    <li>Sử dụng các chiến dịch gọi vốn cộng đồng tiếp theo để tài trợ cho các tập mới và sản phẩm mới</li>
+    <li>Tạo ra mô hình kinh doanh bền vững vượt ra ngoài giai đoạn gọi vốn ban đầu</li>
+  </ul>
+</li>
+<li><strong>Bài học</strong>:
+  <ul>
+    <li>Gọi vốn cộng đồng có thể là một cách hiệu quả để xác thực các dự án sáng tạo trên thị trường Việt Nam</li>
+    <li>Xây dựng cộng đồng trước khi bắt đầu chiến dịch là yếu tố then chốt để thành công</li>
+    <li>Phát triển tầm nhìn dài hạn vượt ra ngoài khoản tài trợ ban đầu có thể biến một dự án được gọi vốn cộng đồng thành một doanh nghiệp bền vững</li>
+  </ul>
+</li>
+</ul>
+</details>
+
 ![Crowfunding business model - ](https://pplx-res.cloudinary.com/image/upload/v1750241523/user_uploads/72408308/e7d5d10c-32c2-44d9-8362-3347261d1cfe/1000041882.jpg)
