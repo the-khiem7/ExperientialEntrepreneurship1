@@ -66,3 +66,24 @@ Highland Coffee là chuỗi cà phê nổi tiếng của Việt Nam, được th
 - Hỗ trợ marketing và quảng bá thương hiệu  
 - Hệ thống cung ứng nguyên liệu đảm bảo chất lượng
 </details>
+
+#### Mô hình nhượng quyền đất của CP Group
+
+<details>
+<summary>Tổng quan</summary>
+CP Group (Charoen Pokphand) là tập đoàn đa ngành lớn của Thái Lan, với mô hình nhượng quyền đất độc đáo trong lĩnh vực nông nghiệp và chăn nuôi.
+</details>
+
+<details>
+<summary>Cơ chế nhượng quyền đất</summary>
+- **Hợp tác đất đai**: CP cung cấp công nghệ và kỹ thuật, người nông dân đóng góp đất và sức lao động  
+- **Hỗ trợ kỹ thuật**: Tập đoàn cung cấp giống, thức ăn và quy trình chăn nuôi tiêu chuẩn  
+- **Cam kết thu mua**: CP bảo đảm thu mua sản phẩm đạt tiêu chuẩn với giá ổn định
+</details>
+
+<details>
+<summary>Lợi ích cho người tham gia</summary>
+- Giảm thiểu rủi ro thị trường cho nông dân  
+- Tiếp cận công nghệ và quy trình hiện đại  
+- Thu nhập ổn định và bền vững hơn so với canh tác truyền thống
+</details>
