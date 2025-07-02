@@ -17,7 +17,7 @@
 1. [SaaS](#saas)
 1. [Crowdfunding](#crowfunding-business-model---kickstarter)  
 1. Business model CANVAS  
-1. [SHEIN](#shein)
+1. [SHEIN](#shein---mô-hình-ultra-fast-fashion)
 
 ---
 
@@ -260,13 +260,42 @@ Mô hình kinh doanh "Dao cạo và lưỡi dao" (Razor and Blades) là chiến 
 ---
 
 # SaaS Business Model - Salesforce
+# Mô hình kinh doanh dịch vụ đám mây - Cloud Services
 ![SaaS Business Model - Salesforce](https://pplx-res.cloudinary.com/image/upload/v1750241120/user_uploads/72408308/a68946c7-9512-4413-891d-77f667cf8c27/1000041881.jpg)
-Software as a Service (SaaS) business model is a subscription-based software delivery model where applications are hosted by a third-party provider and made available to customers over the internet. This model has revolutionized the way software is distributed and consumed, offering flexibility and scalability to businesses.
 
-**Diagram Labels:**
-- SaaS: Software as a Service
-- IaaS: Infrastructure as a Service
-- PaaS: Platform as a Service
+## SaaS - Software as a Service (Phần mềm dưới dạng dịch vụ)
+- **Định nghĩa**: Mô hình cung cấp phần mềm hoàn chỉnh qua internet, người dùng truy cập thông qua trình duyệt
+- **Đặc điểm**: Thanh toán theo thuê bao (subscription), không cần cài đặt, tự động cập nhật
+- **Trách nhiệm người dùng**: Chỉ sử dụng phần mềm và quản lý dữ liệu
+- **Ví dụ**: Salesforce, Microsoft 365, Google Workspace, Dropbox, Slack
+
+## PaaS - Platform as a Service (Nền tảng dưới dạng dịch vụ)
+- **Định nghĩa**: Cung cấp môi trường phát triển và triển khai ứng dụng
+- **Đặc điểm**: Bao gồm hệ điều hành, ngôn ngữ lập trình, cơ sở dữ liệu, web server
+- **Trách nhiệm người dùng**: Phát triển, triển khai và quản lý ứng dụng
+- **Ví dụ**: Google App Engine, Microsoft Azure App Services, Heroku, AWS Elastic Beanstalk
+
+## IaaS - Infrastructure as a Service (Hạ tầng dưới dạng dịch vụ)
+- **Định nghĩa**: Cung cấp hạ tầng CNTT ảo hóa qua internet
+- **Đặc điểm**: Tài nguyên máy chủ, lưu trữ, mạng được thuê theo nhu cầu
+- **Trách nhiệm người dùng**: Quản lý hệ điều hành, phần mềm trung gian, ứng dụng và dữ liệu
+- **Ví dụ**: Amazon Web Services EC2, Microsoft Azure Virtual Machines, Google Compute Engine
+
+## So sánh ba mô hình
+
+| Tiêu chí | IaaS | PaaS | SaaS |
+|----------|------|------|------|
+| **Kiểm soát** | Cao nhất | Trung bình | Thấp nhất |
+| **Quản lý** | Nhiều nhất | Trung bình | Ít nhất |
+| **Linh hoạt** | Cao nhất | Trung bình | Thấp nhất |
+| **Chi phí ban đầu** | Thấp | Thấp | Thấp |
+| **Chuyên môn kỹ thuật** | Cao | Trung bình | Thấp |
+| **Khả năng tùy chỉnh** | Cao | Trung bình | Thấp |
+
+## Lựa chọn mô hình phù hợp
+- **IaaS**: Phù hợp khi cần linh hoạt cao, kiểm soát cơ sở hạ tầng và có đội ngũ IT mạnh
+- **PaaS**: Phù hợp với đội phát triển muốn tập trung vào code thay vì quản lý hạ tầng
+- **SaaS**: Phù hợp với người dùng cuối muốn giải pháp "plug and play", không cần quản lý kỹ thuật
 
 ---
 
@@ -363,6 +392,7 @@ Shein là thương hiệu thời trang nhanh của Trung Quốc, hiện là nhà
 ---
 
 ## Các yếu tố then chốt trong thành công của Shein
+[Case Study | How Shein Goes Crazy Worldwidely In Fast-fashion Market](https://youtu.be/IYaO2q4-LH4?si=IN2HRnvujZ9h-z4e)
 
 ### 1. Mô hình kinh doanh dựa trên dữ liệu lớn và phản ứng nhanh
 
