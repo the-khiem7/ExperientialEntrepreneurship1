@@ -17,7 +17,7 @@
 1. [SaaS](#saas)
 1. [Crowdfunding](#crowfunding-business-model---kickstarter)  
 1. Business model CANVAS  
-1. SHEIN  
+1. [SHEIN](#shein)
 
 ---
 
@@ -315,3 +315,77 @@ Software as a Service (SaaS) business model is a subscription-based software del
 </li>
 </ul>
 </details>
+
+# SHEIN
+![1](https://pplx-res.cloudinary.com/image/upload/v1751444507/user_uploads/60715756/ff890587-9792-463e-9ac8-2e1d756d4c3e/1000042176.jpg)
+
+**Shein, H&M and Zara in the US: Retail Sales rsp (curr/con, USD million) 2019-2021**
+
+**Dữ liệu chính (ước tính từ biểu đồ):**
+| Năm | Shein | H&M | Zara |
+|-----|--------|-----|------|
+| 2018 | ~100 | ~2300 | ~500 |
+| 2019 | ~300 | ~2500 | ~600 |
+| 2020 | ~1100 | ~1500 | ~300 |
+| 2021 | ~2200 | ~1800 | ~300 |
+
+**Thông tin bên phải biểu đồ:**
+- Founded in China as Sheinside in 2008
+- Launched Shein.com in 2015 and entered the US market
+- Sales from $4B in 2019 to $10B in 2020
+- Overtaking Zara and H&M to become the largest fast fashion retailer in the US by 2021
+- 5/2023 – $66B
+
+
+## Fast Fashion - Thời trang nhanh
+
+Fast Fashion là mô hình kinh doanh trong ngành thời trang tập trung vào việc sản xuất và bán quần áo theo xu hướng với tốc độ nhanh và chi phí thấp.
+
+### Đặc điểm chính của Fast Fashion
+
+- **Tốc độ sản xuất cao**: 2000-3000 mẫu mới/năm
+- **Chi phí thấp**: Sử dụng vật liệu và nhân công giá rẻ
+- **Cập nhật liên tục**: Thay đổi mẫu mã theo xu hướng thời trang
+- **Quy mô lớn**: Sản xuất với số lượng nhiều để giảm giá thành
+
+### Các thương hiệu tiêu biểu
+
+- **Zara**: Tiên phong trong mô hình fast fashion
+- **H&M**: Tập trung vào thời trang bình dân
+- **SHEIN**: Mô hình fast fashion kết hợp thương mại điện tử
+- **Uniqlo**: Fast fashion với định hướng chất lượng
+
+### Tác động môi trường
+
+- Tiêu thụ nhiều tài nguyên và năng lượng
+- Thải ra lượng lớn chất thải dệt may
+- Gây ô nhiễm nước từ quá trình sản xuất
+- Thúc đẩy văn hóa tiêu dùng không bền vững
+
+### SHEIN - Ultra-Fast Fashion
+
+SHEIN đã tạo nên một cuộc cách mạng trong ngành công nghiệp thời trang nhanh với mô hình "ultra-fast fashion", vượt xa cả những đối thủ truyền thống:
+
+#### So sánh với đối thủ cạnh tranh
+
+**Tốc độ ra mắt sản phẩm**
+- SHEIN: 6000+ mẫu mới/ngày
+- Zara: ~500 mẫu mới/tuần
+- H&M: ~200-300 mẫu mới/tuần
+
+**Giá thành sản phẩm**
+- SHEIN: $8-30
+- Zara: $20-100
+- H&M: $15-80
+
+**Thời gian từ thiết kế đến sản xuất**
+- SHEIN: 3-7 ngày
+- Zara: 2-3 tuần
+- H&M: 3-8 tuần
+
+
+
+
+slow-fashion
+
+vegan things. . .
