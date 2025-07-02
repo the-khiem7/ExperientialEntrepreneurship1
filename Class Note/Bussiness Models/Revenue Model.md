@@ -316,26 +316,27 @@ Software as a Service (SaaS) business model is a subscription-based software del
 </ul>
 </details>
 
-# SHEIN
-![1](https://pplx-res.cloudinary.com/image/upload/v1751444507/user_uploads/60715756/ff890587-9792-463e-9ac8-2e1d756d4c3e/1000042176.jpg)
+# SHEIN - Mô hình Ultra-Fast Fashion
 
-**Shein, H&M and Zara in the US: Retail Sales rsp (curr/con, USD million) 2019-2021**
+## Tổng quan về SHEIN
 
-**Dữ liệu chính (ước tính từ biểu đồ):**
-| Năm | Shein | H&M | Zara |
-|-----|--------|-----|------|
+![Biểu đồ doanh thu SHEIN so với H&M và Zara tại Mỹ](https://pplx-res.cloudinary.com/image/upload/v1751444507/user_uploads/60715756/ff890587-9792-463e-9ac8-2e1d756d4c3e/1000042176.jpg)
+
+**Lịch sử phát triển:**
+- Thành lập tại Trung Quốc với tên Sheinside năm 2008
+- Ra mắt Shein.com và gia nhập thị trường Mỹ năm 2015
+- Doanh thu tăng từ $4 tỷ (2019) lên $10 tỷ (2020)
+- Vượt qua Zara và H&M để trở thành nhà bán lẻ thời trang nhanh lớn nhất tại Mỹ năm 2021
+- Đạt giá trị $66 tỷ vào tháng 5/2023
+
+**Doanh số tại Mỹ (triệu USD):**
+
+| Năm | SHEIN | H&M | Zara |
+|-----|-------|-----|------|
 | 2018 | ~100 | ~2300 | ~500 |
 | 2019 | ~300 | ~2500 | ~600 |
 | 2020 | ~1100 | ~1500 | ~300 |
 | 2021 | ~2200 | ~1800 | ~300 |
-
-**Thông tin bên phải biểu đồ:**
-- Founded in China as Sheinside in 2008
-- Launched Shein.com in 2015 and entered the US market
-- Sales from $4B in 2019 to $10B in 2020
-- Overtaking Zara and H&M to become the largest fast fashion retailer in the US by 2021
-- 5/2023 – $66B
-
 
 ## Fast Fashion - Thời trang nhanh
 
@@ -352,36 +353,27 @@ Fast Fashion là mô hình kinh doanh trong ngành thời trang tập trung vào
 
 - **Zara**: Tiên phong trong mô hình fast fashion
 - **H&M**: Tập trung vào thời trang bình dân
-- **SHEIN**: Mô hình fast fashion kết hợp thương mại điện tử
+- **SHEIN**: Mô hình ultra-fast fashion kết hợp thương mại điện tử
 - **Uniqlo**: Fast fashion với định hướng chất lượng
 
-### Tác động môi trường
+### SHEIN - Từ Fast Fashion đến Ultra-Fast Fashion
+
+SHEIN đã đẩy mô hình fast fashion truyền thống lên một tầm cao mới với "ultra-fast fashion", vượt xa các đối thủ cạnh tranh trong ngành:
+
+#### So sánh với đối thủ cạnh tranh
+
+| Tiêu chí | SHEIN | Zara | H&M |
+|----------|-------|------|------|
+| **Tốc độ ra mắt sản phẩm** | 6000+ mẫu/ngày | ~500 mẫu/tuần | ~200-300 mẫu/tuần |
+| **Giá thành sản phẩm** | $8-30 | $20-100 | $15-80 |
+| **Thời gian từ thiết kế đến sản xuất** | 3-7 ngày | 2-3 tuần | 3-8 tuần |
+
+### Tác động môi trường của Fast Fashion
 
 - Tiêu thụ nhiều tài nguyên và năng lượng
 - Thải ra lượng lớn chất thải dệt may
 - Gây ô nhiễm nước từ quá trình sản xuất
 - Thúc đẩy văn hóa tiêu dùng không bền vững
-
-### SHEIN - Ultra-Fast Fashion
-
-SHEIN đã tạo nên một cuộc cách mạng trong ngành công nghiệp thời trang nhanh với mô hình "ultra-fast fashion", vượt xa cả những đối thủ truyền thống:
-
-#### So sánh với đối thủ cạnh tranh
-
-**Tốc độ ra mắt sản phẩm**
-- SHEIN: 6000+ mẫu mới/ngày
-- Zara: ~500 mẫu mới/tuần
-- H&M: ~200-300 mẫu mới/tuần
-
-**Giá thành sản phẩm**
-- SHEIN: $8-30
-- Zara: $20-100
-- H&M: $15-80
-
-**Thời gian từ thiết kế đến sản xuất**
-- SHEIN: 3-7 ngày
-- Zara: 2-3 tuần
-- H&M: 3-8 tuần
 
 
 
