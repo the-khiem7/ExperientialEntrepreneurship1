@@ -11,10 +11,14 @@
             "id": "917bd24b106918bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Checkpoint 4/MentorNote.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MentorNote"
             }
           }
         ]
@@ -94,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Checkpoint 4/MentorNote.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,6 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Checkpoint 4/MentorNote.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -125,6 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Checkpoint 4/MentorNote.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
