@@ -1,3 +1,4 @@
+#exe #bmc 
 # Tại sao tách biệt BMC và 9 mô hình kinh doanh?
 
 > 💡 **Tóm tắt:** BMC và 9 mô hình kinh doanh phục vụ các mục đích khác nhau trong việc xây dựng và phát triển chiến lược kinh doanh. BMC là công cụ phân tích chi tiết, trong khi 9 mô hình kinh doanh là cách phân loại chiến lược tạo doanh thu.

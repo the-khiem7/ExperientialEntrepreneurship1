@@ -1,7 +1,8 @@
+#exe #bmc
 # 9 Mô hình kinh doanh
 1. Enterprise
-1. SAAS
-1. Usage Based
+2. SAAS
+3. Usage Based
 4. Subscription
 1. Transactional
 1. Marketplace

@@ -1,3 +1,4 @@
+#exe #bmc #revenueModels
 # Revenue Models - Mô hình kinh doanh
 
 ![Revenue Models Overview](https://pplx-res.cloudinary.com/image/upload/v1750237236/user_uploads/72408308/39d47453-0925-48f9-8111-eb45f575eb9f/1000041879.jpg)
