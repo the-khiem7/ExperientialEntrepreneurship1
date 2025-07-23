@@ -70,16 +70,17 @@
     > Phải xác định khi còn 0đ thì cần bao nhiêu tiền đề sống sót
 
 ### Venture Capital
-**Sau khi đã dùng các phương pháp kia, nếu cần thêm mới động đến VC**
-**Nên áp dụng ở năm 2 khi đã thành hình**
+Sau khi đã dùng các phương pháp kia, nếu cần thêm mới động đến VC
+Nên áp dụng ở năm 2 khi đã thành hình
 > [!NOTE] 
     > **Phương thức**
     > Pre-Seed - Series A ~ 20%
     > Seed - Series B ~ 50% (năm 2)
+
+**Dilution - pha loãng quyền lợi**
+
 # Góp vốn
 > [!NOTE] 
     > **Cổ tức**
     > Không nên để 6 người góp cùng số tiền
     > Khi cổ tức bằng nhau => Không thống nhất đường ý kiến trong doanh nghiệp 
-
-### Dilution - pha loãng quyền lợi
