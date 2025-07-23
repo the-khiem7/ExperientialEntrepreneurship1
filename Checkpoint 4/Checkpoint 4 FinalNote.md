@@ -54,8 +54,8 @@
 > Nhà đầu tư người ta không có đi tin BMC của bạn, họ tin vào phán đoán của bản thân họ hơn
 - Phương pháp chấm điểm từng hạng mục của 1 công ty để phán đoán được khả năng của 1 doanh nghiệp
 > [!NOTE]
-    > **Pichdesk 4**
-    > Cô Hà muốn mỗi nhóm chọn 2 phương pháp định giá trong Pichdesk 
+   > **Pichdesk 4**
+   > Cô Hà muốn mỗi nhóm chọn 2 phương pháp định giá trong Pichdesk 
 # Gọi vốn
 > **Không nên để self funding => nên để bootstrapping** 
 
@@ -65,22 +65,22 @@
 - Gọi 3 năm: Em muốn phát triển tốt đến năm thứ 2
 
 > [!NOTE] 
-    > **Kịch bản xấu nhất**
-    > Chi phí vượt quá BMC do các yếu tố khách quan như MKT, . . .
-    > Phải xác định khi còn 0đ thì cần bao nhiêu tiền đề sống sót
+   > **Kịch bản xấu nhất**
+   > Chi phí vượt quá BMC do các yếu tố khách quan như MKT, . . .
+   > Phải xác định khi còn 0đ thì cần bao nhiêu tiền đề sống sót
 
 ### Venture Capital
 Sau khi đã dùng các phương pháp kia, nếu cần thêm mới động đến VC
 Nên áp dụng ở năm 2 khi đã thành hình
 > [!NOTE] 
-    > **Phương thức**
-    > Pre-Seed - Series A ~ 20%
-    > Seed - Series B ~ 50% (năm 2)
+   > **Phương thức**
+   > Pre-Seed - Series A ~ 20%
+   > Seed - Series B ~ 50% (năm 2)
 
 **Dilution - pha loãng quyền lợi**
 
 # Góp vốn
 > [!NOTE] 
-    > **Cổ tức**
-    > Không nên để 6 người góp cùng số tiền
-    > Khi cổ tức bằng nhau => Không thống nhất đường ý kiến trong doanh nghiệp 
+   > **Cổ tức**
+   > Không nên để 6 người góp cùng số tiền
+   > Khi cổ tức bằng nhau => Không thống nhất đường ý kiến trong doanh nghiệp 
