@@ -27,6 +27,18 @@
     > Năm 2 lời (dương) đem trừ cho lỗ năm 1 => nếu dương thì mới tính thuế, âm thì thôi
     > Tương tự, lấy năm mới trừ lỗ năm cũ xem <=> Dương mới tính thuế
 # Valuation: ĐỊNH GIÁ
+### **DCF - Discounted Cash Flow**.
+**DCF (Discounted Cash Flow)** là phương pháp định giá dựa trên việc ước tính giá trị hiện tại của dòng tiền tự do trong tương lai mà doanh nghiệp có thể tạo ra. Đây là phương pháp cực kỳ phổ biến trong định giá startup, doanh nghiệp đang phát triển, hoặc khi bạn cần thẩm định giá trị nội tại (intrinsic value).
+
+| Thành phần         | Vai trò trong DCF                                                      |
+| ------------------ | ---------------------------------------------------------------------- |
+| **FCF 2026–2028**  | Ước tính dòng tiền tự do từng năm                                      |
+| **Terminal Value** | Giá trị còn lại sau năm cuối dự báo                                    |
+| **WACC**           | Tỷ suất chiết khấu để đưa FCF & Terminal về hiện tại                   |
+| **Present Value**  | Giá trị hiện tại sau khi chiết khấu toàn bộ dòng tiền                  |
+| **NPV**            | Tổng giá trị hiện tại của tất cả dòng tiền trừ chi phí đầu tư (nếu có) |
+| **IRR**            | Tỷ suất sinh lợi nội tại của khoản đầu tư                              |
+| **Payback Period** | Thời gian hoàn vốn                                                     |
 # COGS: giá vốn hàng bán
 - 
 # Expense: chi phí vận hành
