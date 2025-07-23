@@ -16,13 +16,13 @@
 # Valuation - các phương pháp định giá doanh nghiệp
 ### Comparable - Phương pháp so sánh
 ### Capital Based - Cost + Expense
-- Thay vì đi làm thì bạn đã bỏ vô dự án được bao nhiêu tiền
+- Thay vì đi làm thì bạn đã bỏ vô dự án được bao nhiêu tiền 
 ### Score Card (3rd party)
 - Người ta sẽ có thẻ điểm 
 	- Team sáng lập: ?? điểm
 	- Công nghệ: ???
 - So sánh điểm tổng với các tổng điểm nhóm khác và nhân với số tiền
-### Lãi kép - Kỳ quan thế giới thứ 8
+### DCF - Lãi kép - Kỳ quan thế giới thứ 8
 > [!NOTE]
     > FV1 = PV (1+r)
 
