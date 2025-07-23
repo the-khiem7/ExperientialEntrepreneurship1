@@ -57,6 +57,8 @@
     > **Pichdesk 4**
     > Cô Hà muốn mỗi nhóm chọn 2 phương pháp định giá trong Pichdesk 
 # Gọi vốn
+> **Không nên để self funding => nên để bootstrapping** 
+
 > Mỗi doanh nghiệp sẽ có mục địch gọi vốn khác nhau
 - Gọi 1 năm: Em muốn sống sót qua năm đầu
 - Gọi 2 năm: Em muốn sống tốt qua năm đầu
