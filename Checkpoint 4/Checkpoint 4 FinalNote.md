@@ -26,8 +26,19 @@
     > Năm đầu lỗ
     > Năm 2 lời (dương) đem trừ cho lỗ năm 1 => nếu dương thì mới tính thuế, âm thì thôi
     > Tương tự, lấy năm mới trừ lỗ năm cũ xem <=> Dương mới tính thuế
+# COGS: giá vốn hàng bán
+- 
+# Expense: chi phí vận hành
+- Lương - chi phí quản lí doanh nghiệp
+- MKT
+- Lệ phí môn bài - Thuế khoán - Business registration fee
+	- 2tr mỗi năm nếu dưới 10 tỷ, ko quan tâm lời hay lãi, tính cho đến khi tuyên bố phá sản
+> Em lập công ty ở đâu mà lại có lệ phí môn bài ?
+
+> Phải để doanh thu có sự tăng trưởng để bớt nhàm chán, tự gây áp lực để có bệ phóng
+
 # Valuation: ĐỊNH GIÁ
-### **DCF - Discounted Cash Flow**.
+### DCF - Discounted Cash Flow.
 **DCF (Discounted Cash Flow)** là phương pháp định giá dựa trên việc ước tính giá trị hiện tại của dòng tiền tự do trong tương lai mà doanh nghiệp có thể tạo ra. Đây là phương pháp cực kỳ phổ biến trong định giá startup, doanh nghiệp đang phát triển, hoặc khi bạn cần thẩm định giá trị nội tại (intrinsic value).
 
 | Thành phần         | Vai trò trong DCF                                                      |
@@ -39,13 +50,20 @@
 | **NPV**            | Tổng giá trị hiện tại của tất cả dòng tiền trừ chi phí đầu tư (nếu có) |
 | **IRR**            | Tỷ suất sinh lợi nội tại của khoản đầu tư                              |
 | **Payback Period** | Thời gian hoàn vốn                                                     |
-# COGS: giá vốn hàng bán
-- 
-# Expense: chi phí vận hành
-- Lương - chi phí quản lí doanh nghiệp
-- MKT
-- Lệ phí môn bài - Thuế khoán - Business registration fee
-	- 2tr mỗi năm nếu dưới 10 tỷ, ko quan tâm lời hay lãi, tính cho đến khi tuyên bố phá sản
-> Em lập công ty ở đâu mà lại có lệ phí môn bài ?
+### Method: NPV - IBR
+> Nhà đầu tư người ta không có đi tin BMC của bạn, họ tin vào phán đoán của bản thân họ hơn
+- Phương pháp chấm điểm từng hạng mục của 1 công ty để phán đoán được khả năng của 1 doanh nghiệp
+> [!NOTE] Pichdesk 4
+   Mỗi nhóm cô Hà sẽ chọn 2 phương pháp định giá
 
-> Phải để doanh thu có sự tăng trưởng để bớt nhàm chán, tự gây áp lực để có bệ phóng
+# Gọi vốn
+> Mỗi doanh nghiệp sẽ có mục địch gọi vốn khác nhau
+
+- Gọi 1 năm: Em muốn sống sót qua năm đầu
+- Gọi 2 năm: Em muốn sống tốt qua năm đầu
+- Gọi 3 năm: Em muốn phát triển tốt đến năm thứ 2
+
+> [!NOTE] Kịch bản xấu nhất
+    > Chi phí vượt quá BMC do các yếu tố khách quan như MKT, . . .
+    > Phải xác định khi còn 0đ thì cần bao nhiêu tiền đề sống sót
+    
