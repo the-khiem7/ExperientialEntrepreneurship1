@@ -54,8 +54,8 @@
 > Nhà đầu tư người ta không có đi tin BMC của bạn, họ tin vào phán đoán của bản thân họ hơn
 - Phương pháp chấm điểm từng hạng mục của 1 công ty để phán đoán được khả năng của 1 doanh nghiệp
 > [!NOTE]
-   > **Pichdesk 4**
-   > Cô Hà muốn mỗi nhóm chọn 2 phương pháp định giá trong Pichdesk 
+    **Pichdesk 4**
+    Cô Hà muốn mỗi nhóm chọn 2 phương pháp định giá trong Pichdesk 
 # Gọi vốn
 > **Không nên để self funding => nên để bootstrapping** 
 
