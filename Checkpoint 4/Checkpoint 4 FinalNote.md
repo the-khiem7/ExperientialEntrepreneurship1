@@ -53,17 +53,31 @@
 ### Method: NPV - IBR
 > Nhà đầu tư người ta không có đi tin BMC của bạn, họ tin vào phán đoán của bản thân họ hơn
 - Phương pháp chấm điểm từng hạng mục của 1 công ty để phán đoán được khả năng của 1 doanh nghiệp
-> [!NOTE] Pichdesk 4
-   Mỗi nhóm cô Hà sẽ chọn 2 phương pháp định giá
-
+> [!NOTE]
+    > **Pichdesk 4**
+    > Cô Hà muốn mỗi nhóm chọn 2 phương pháp định giá trong Pichdesk 
 # Gọi vốn
 > Mỗi doanh nghiệp sẽ có mục địch gọi vốn khác nhau
-
 - Gọi 1 năm: Em muốn sống sót qua năm đầu
 - Gọi 2 năm: Em muốn sống tốt qua năm đầu
 - Gọi 3 năm: Em muốn phát triển tốt đến năm thứ 2
 
-> [!NOTE] Kịch bản xấu nhất
+> [!NOTE] 
+    > **Kịch bản xấu nhất**
     > Chi phí vượt quá BMC do các yếu tố khách quan như MKT, . . .
     > Phải xác định khi còn 0đ thì cần bao nhiêu tiền đề sống sót
-    
+
+### Venture Capital
+**Sau khi đã dùng các phương pháp kia, nếu cần thêm mới động đến VC**
+**Nên áp dụng ở năm 2 khi đã thành hình**
+> [!NOTE] 
+    > **Phương thức**
+    > Pre-Seed - Series A ~ 20%
+    > Seed - Series B ~ 50% (năm 2)
+# Góp vốn
+> [!NOTE] 
+    > **Cổ tức**
+    > Không nên để 6 người góp cùng số tiền
+    > Khi cổ tức bằng nhau => Không thống nhất đường ý kiến trong doanh nghiệp 
+
+### Dilution - pha loãng quyền lợi
